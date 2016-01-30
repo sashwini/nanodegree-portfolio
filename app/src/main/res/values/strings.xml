@@ -2,8 +2,8 @@
     <string name="app_name">Portfolio</string>
     <string name="action_settings">Settings</string>
     <string name="streamer_app_name">Spotify Streamer</string>
-    <string name="scores_app_name">Football Scores App</string>
-    <string name="library_app_name">Library App</string>
+    <string name="scores_app_name">Football Scores</string>
+    <string name="library_app_name">Library</string>
     <string name="build_app_name">Build It Bigger</string>
     <string name="reader_app_name">XYZ Reader</string>
     <string name="capstone_app_name">Capstone </string>
